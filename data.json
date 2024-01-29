@@ -2,24 +2,12 @@
     {
         "id":1,
         "name":"phone",
-        "img":"isduofjweoasdpfcl"
+        "title":"isduofjweoasdpfcl"
     },
     {
         "id":2,
         "name":"book",
-        "img":"https://github.com/Javscript-Dom/Change-Theme/assets/117477110/5c3e26ae-9e27-4a5b-b1c0-0df4050da4e6"
-        
-    },
-    {
-        "id":3,
-        "name":"chose",
-        "img":"https://github.com/Javscript-Dom/Change-Theme/assets/117477110/5c3e26ae-9e27-4a5b-b1c0-0df4050da4e6"
-        
-    },
-    {
-        "id":4,
-        "name":"laptoop",
-        "img":"https://github.com/Javscript-Dom/Change-Theme/assets/117477110/5c3e26ae-9e27-4a5b-b1c0-0df4050da4e6"
-        
-    }
+        "title":"hfgjfkdldfjngkflf"
+       
+    
 ]
